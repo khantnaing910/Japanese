@@ -18,27 +18,27 @@ This repository provides comprehensive **JLPT N5 and N4** vocabulary and kanji l
 - **Reading** (hiragana)
 - **Meaning** (English)
 - **Verb Group** (I, II, III) for applicable verbs
+- Organized by lesson number (1–50)
 
 ### Kanji Files (`n5kanji.md`, `n4kanji.md`)
 - **Kanji** with its **on'yomi/kun'yomi** readings
 - **Vocabulary example words** using the kanji, including readings and meanings
 - **Verb Group** for example verbs
-- Themed lessons (e.g., *Lesson 1: Address & Government*, *Lesson 10: Mind & Communication*)
+- Themed lessons (e.g., *Address & Government*, *Mind & Communication*)
 
 ## 📖 How to Use This Repository
 
-1. **Self‑study**: Browse the Markdown files directly on GitHub or clone the repo to your local machine.
-   ```bash
-   ```
-2. **Flashcards / Apps**: The clean table structure can easily be parsed for import into Anki, Quizlet, or other SRS tools.
-3. **Quick Reference**: Use the file‑in‑repository search to find words or kanji instantly.
-4. **Integration**: The verb groups (I, II, III) help you learn correct conjugation from the start.
+1. **Download or clone** the repository to your local machine.
+2. **Self‑study**: Browse the Markdown files directly on GitHub.
+3. **Flashcards / Apps**: The clean table structure can easily be parsed for import into Anki, Quizlet, or other SRS tools.
+4. **Quick Reference**: Use the file‑in‑repository search to find words or kanji instantly.
+5. **Integration**: The verb groups (I, II, III) help you learn correct conjugation from the start.
 
 ## 🧠 Why This Repository?
 
 - **Accurate & Complete**: Based on the widely used *Minna no Nihongo* (2nd edition) series and official *N5/N4 Kanji Challenge* books.
 - **Clean Format**: No noise, just well‑structured tables for each lesson.
-- **Learner‑Friendly**: Verb groups are noted, readings are provided, and all meanings are in English (with Burmese lesson headers preserved for those transitioning from Burmese materials).
+- **Learner‑Friendly**: Verb groups are noted, readings are provided, and all meanings are in English.
 - **Free & Open**: Anyone can use, modify, and share this data under the MIT License.
 
 ## 📝 Example Preview
@@ -63,6 +63,10 @@ This repository provides comprehensive **JLPT N5 and N4** vocabulary and kanji l
 
 Found a typo or want to add more vocabulary/kanji? Contributions are welcome!  
 Please open an issue or submit a pull request. Make sure your changes keep the same Markdown table structure for consistency.
+
+## 👤 Maintainer
+
+Compiled and maintained by **Khant Naing**.
 
 ## 📄 License
 
