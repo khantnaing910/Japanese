@@ -1,771 +1,968 @@
-# JLPT N5 Vocabulary List
+# 📘 JLPT N5 Vocabulary List
+### Minna no Nihongo — Beginner Level
 
-## Lesson 1 (လက်ရံ-၁)
+---
 
-| Japanese | Reading | Meaning |
-|----------|---------|---------|
-| 私 | わたし | I, me |
-| あなた | あなた | you |
-| あの人 | あのひと | that person |
-| あの方 | あのかた | that person (polite) |
-| 〜さん | 〜さん | Mr./Ms. |
-| 〜ちゃん | 〜ちゃん | suffix for children/close friends |
-| 〜じん | 〜じん | person suffix |
-| 先生 | せんせい | teacher |
-| 教師 | きょうし | teacher |
-| 学生 | がくせい | student |
-| 会社員 | かいしゃいん | company employee |
-| 社員 | しゃいん | company employee |
-| 銀行員 | ぎんこういん | bank employee |
-| 医者 | いしゃ | doctor |
-| 研究者 | けんきゅうしゃ | researcher |
-| 大学 | だいがく | university |
-| 病院 | びょういん | hospital |
-| 誰 | だれ(どなた) | who |
-| 〜歳 | 〜さい | years old |
-| 何歳 | なんさい(おいくつ) | how old |
-| はい | はい | yes |
-| いいえ | いいえ | no |
+## 📖 Lesson 1 — Self-Introduction & People
 
-## Lesson 2 (လက်ရံ-၂)
+| # | Japanese | Reading | Meaning |
+|---|----------|---------|---------|
+| 1 | 私 | わたし | I, me |
+| 2 | あなた | あなた | you |
+| 3 | あの人 | あのひと | that person |
+| 4 | あの方 | あのかた | that person (polite) |
+| 5 | 〜さん | 〜さん | Mr./Ms. |
+| 6 | 〜ちゃん | 〜ちゃん | suffix for children/close friends |
+| 7 | 〜じん | 〜じん | person suffix |
+| 8 | 先生 | せんせい | teacher |
+| 9 | 教師 | きょうし | teacher |
+| 10 | 学生 | がくせい | student |
+| 11 | 会社員 | かいしゃいん | company employee |
+| 12 | 社員 | しゃいん | company employee |
+| 13 | 銀行員 | ぎんこういん | bank employee |
+| 14 | 医者 | いしゃ | doctor |
+| 15 | 研究者 | けんきゅうしゃ | researcher |
+| 16 | 大学 | だいがく | university |
+| 17 | 病院 | びょういん | hospital |
+| 18 | 誰 | だれ（どなた） | who |
+| 19 | 〜歳 | 〜さい | years old |
+| 20 | 何歳 | なんさい（おいくつ） | how old |
+| 21 | はい | はい | yes |
+| 22 | いいえ | いいえ | no |
 
-| Japanese | Reading | Meaning |
-|----------|---------|---------|
-| これ | これ | this |
-| それ | それ | that |
-| あれ | あれ | that over there |
-| この〜 | この〜 | this〜 |
-| その〜 | その〜 | that〜 |
-| あの〜 | あの〜 | that〜over there |
-| 本 | ほん | book |
-| 辞書 | じしょ | dictionary |
-| 雑誌 | ざっし | magazine |
-| 新聞 | しんぶん | newspaper |
-| ノート | のーと | notebook |
-| 手帳 | てちょう | pocket notebook |
-| 名刺 | めいし | business card |
-| カード | かーど | card |
-| 鉛筆 | えんぴつ | pencil |
-| ボールペン | ぼーるぺん | ballpoint pen |
-| シャープペンシル | しゃーぷぺんしる | mechanical pencil |
-| 鍵 | かぎ | key |
-| 時計 | とけい | clock, watch |
-| 傘 | かさ | umbrella |
-| 鞄 | かばん | bag |
-| CD | しーでぃー | CD |
-| テレビ | てれび | TV |
-| ラジオ | らじお | radio |
-| カメラ | かめら | camera |
-| コンピューター | こんぴゅーたー | computer |
-| 車 | くるま | car |
-| 机 | つくえ | desk |
-| 椅子 | いす | chair |
-| チョコレート | ちょこれーと | chocolate |
-| コーヒー | こーひー | coffee |
+---
 
-## Lesson 3 (လက်ရံ-၃)
+## 📖 Lesson 2 — Demonstratives & Everyday Objects
 
-| Japanese | Reading | Meaning |
-|----------|---------|---------|
-| ここ | ここ | here |
-| そこ | そこ | there |
-| あそこ | あそこ | over there |
-| どこ | どこ | where |
-| こちら | こちら | this way |
-| そちら | そちら | that way |
-| あちら | あちら | that way over there |
-| どちら | どちら | which way |
-| 教室 | きょうしつ | classroom |
-| 食堂 | しょくどう | dining hall |
-| 事務所 | じむしょ | office |
-| 会議室 | かいぎしつ | meeting room |
-| 受付 | うけつけ | reception |
-| ロビー | ろびー | lobby |
-| 部屋 | へや | room |
-| トイレ(お手洗い) | といれ(おてあらい) | toilet |
-| 階段 | かいだん | stairs |
-| エレベーター | えれべーたー | elevator |
-| エスカレーター | えすかれーたー | escalator |
-| 自動販売機 | じどうはんばいき | vending machine |
-| 電話 | でんわ | telephone |
-| 国 | くに | country |
-| 会社 | かいしゃ | company |
-| 家 | うち | house, home |
+| # | Japanese | Reading | Meaning |
+|---|----------|---------|---------|
+| 1 | これ | これ | this |
+| 2 | それ | それ | that |
+| 3 | あれ | あれ | that over there |
+| 4 | この〜 | この〜 | this ~ |
+| 5 | その〜 | その〜 | that ~ |
+| 6 | あの〜 | あの〜 | that ~ over there |
+| 7 | 本 | ほん | book |
+| 8 | 辞書 | じしょ | dictionary |
+| 9 | 雑誌 | ざっし | magazine |
+| 10 | 新聞 | しんぶん | newspaper |
+| 11 | ノート | のーと | notebook |
+| 12 | 手帳 | てちょう | pocket notebook |
+| 13 | 名刺 | めいし | business card |
+| 14 | カード | かーど | card |
+| 15 | 鉛筆 | えんぴつ | pencil |
+| 16 | ボールペン | ぼーるぺん | ballpoint pen |
+| 17 | シャープペンシル | しゃーぷぺんしる | mechanical pencil |
+| 18 | 鍵 | かぎ | key |
+| 19 | 時計 | とけい | clock, watch |
+| 20 | 傘 | かさ | umbrella |
+| 21 | 鞄 | かばん | bag |
+| 22 | CD | しーでぃー | CD |
+| 23 | テレビ | てれび | TV |
+| 24 | ラジオ | らじお | radio |
+| 25 | カメラ | かめら | camera |
+| 26 | コンピューター | こんぴゅーたー | computer |
+| 27 | 車 | くるま | car |
+| 28 | 机 | つくえ | desk |
+| 29 | 椅子 | いす | chair |
+| 30 | チョコレート | ちょこれーと | chocolate |
+| 31 | コーヒー | こーひー | coffee |
 
-## Lesson 4 (လက်ရံ-၄)
+---
 
-| Japanese | Reading | Meaning |
-|----------|---------|---------|
-| 靴 | くつ | shoes |
-| ネクタイ | ねくたい | necktie |
-| ワイン | わいん | wine |
-| 売り場 | うりば | sales floor |
-| 地下 | ちか | basement |
-| 〜階 | 〜かい | floor |
-| 何階 | なんがい | which floor |
-| 〜円 | 〜えん | yen |
-| いくら | いくら | how much |
-| 百 | ひゃく | hundred |
-| 千 | せん | thousand |
-| 万 | まん | ten thousand |
+## 📖 Lesson 3 — Locations & Facilities
 
-## Lesson 5 (လက်ရံ-၅)
+| # | Japanese | Reading | Meaning |
+|---|----------|---------|---------|
+| 1 | ここ | ここ | here |
+| 2 | そこ | そこ | there |
+| 3 | あそこ | あそこ | over there |
+| 4 | どこ | どこ | where |
+| 5 | こちら | こちら | this way |
+| 6 | そちら | そちら | that way |
+| 7 | あちら | あちら | that way over there |
+| 8 | どちら | どちら | which way |
+| 9 | 教室 | きょうしつ | classroom |
+| 10 | 食堂 | しょくどう | dining hall |
+| 11 | 事務所 | じむしょ | office |
+| 12 | 会議室 | かいぎしつ | meeting room |
+| 13 | 受付 | うけつけ | reception |
+| 14 | ロビー | ろびー | lobby |
+| 15 | 部屋 | へや | room |
+| 16 | トイレ（お手洗い） | といれ（おてあらい） | toilet |
+| 17 | 階段 | かいだん | stairs |
+| 18 | エレベーター | えれべーたー | elevator |
+| 19 | エスカレーター | えすかれーたー | escalator |
+| 20 | 自動販売機 | じどうはんばいき | vending machine |
+| 21 | 電話 | でんわ | telephone |
+| 22 | 国 | くに | country |
+| 23 | 会社 | かいしゃ | company |
+| 24 | 家 | うち | house, home |
 
-| Japanese | Reading | Meaning |
-|----------|---------|---------|
-| 起きます(I) | おきます | to wake up |
-| 寝ます(I) | ねます | to sleep |
-| 働きます(I) | はたらきます | to work |
-| 休みます(I) | やすみます | to rest |
-| 勉強します(III) | べんきょうします | to study |
-| 終わります(I) | おわります | to finish |
-| デパート | でぱーと | department store |
-| 銀行 | ぎんこう | bank |
-| 郵便局 | ゆうびんきょく | post office |
-| 図書館 | としょかん | library |
-| 美術館 | びじゅつかん | art museum |
-| 今 | いま | now |
-| 〜時 | 〜じ | o'clock |
-| 〜分 | 〜ふん | minute |
-| 半 | はん | half |
-| 何時 | なんじ | what time |
-| 何分 | なんぷん | what minute |
-| 午前 | ごぜん | AM |
-| 午後 | ごご | PM |
-| 朝 | あさ | morning |
-| 昼 | ひる | noon, daytime |
-| 晩(夜) | ばん(よる) | evening, night |
-| おととい | おととい | day before yesterday |
-| きのう | きのう | yesterday |
-| きょう | きょう | today |
-| あした | あした | tomorrow |
-| あさって | あさって | day after tomorrow |
-| けさ | けさ | this morning |
-| 今晩 | こんばん | this evening |
-| 休み | やすみ | rest, holiday |
-| 昼休み | ひるやすみ | lunch break |
+---
 
-## Lesson 6 (လက်ရံ-၆)
+## 📖 Lesson 4 — Shopping & Numbers
 
-| Japanese | Reading | Meaning |
-|----------|---------|---------|
-| 行きます(I) | いきます | to go |
-| 来ます(III) | きます | to come |
-| 帰ります(I) | かえります | to return |
-| 学校 | がっこう | school |
-| スーパー | すーぱー | supermarket |
-| 駅 | えき | station |
-| 飛行機 | ひこうき | airplane |
-| 船 | ふね | ship |
-| 電車 | でんしゃ | train |
-| 地下鉄 | ちかてつ | subway |
-| 新幹線 | しんかんせん | bullet train |
-| バス | ばす | bus |
-| タクシー | たくしー | taxi |
-| 自転車 | じてんしゃ | bicycle |
-| 歩いて | あるいて | on foot |
-| 人 | ひと | person |
-| 友達 | ともだち | friend |
-| 彼 | かれ | he, boyfriend |
-| 彼女 | かのじょ | she, girlfriend |
-| 家族 | かぞく | family |
-| 一人で | ひとりで | alone |
-| 先週 | せんしゅう | last week |
-| 今週 | こんしゅう | this week |
-| 来週 | らいしゅう | next week |
-| 先月 | せんげつ | last month |
-| 今月 | こんげつ | this month |
-| 来月 | らいげつ | next month |
-| 去年 | きょねん | last year |
-| 今年 | ことし | this year |
-| 来年 | らいねん | next year |
-| 〜年 | 〜ねん | year |
-| 何年 | なんねん | what year |
-| 〜月 | 〜がつ | month |
-| 何月 | なんがつ | what month |
+| # | Japanese | Reading | Meaning |
+|---|----------|---------|---------|
+| 1 | 靴 | くつ | shoes |
+| 2 | ネクタイ | ねくたい | necktie |
+| 3 | ワイン | わいん | wine |
+| 4 | 売り場 | うりば | sales floor |
+| 5 | 地下 | ちか | basement |
+| 6 | 〜階 | 〜かい | floor |
+| 7 | 何階 | なんがい | which floor |
+| 8 | 〜円 | 〜えん | yen |
+| 9 | いくら | いくら | how much |
+| 10 | 百 | ひゃく | hundred |
+| 11 | 千 | せん | thousand |
+| 12 | 万 | まん | ten thousand |
 
-## Lesson 7 (လက်ရံ-၇)
+---
 
-| Japanese | Reading | Meaning |
-|----------|---------|---------|
-| 食べます(I) | たべます | to eat |
-| 飲みます(I) | のみます | to drink |
-| 吸います(I) | すいます | to smoke |
-| 見ます(I) | みます | to see, to watch |
-| 聞きます(I) | ききます | to hear, to listen |
-| 読みます(I) | よみます | to read |
-| 書きます(I) | かきます | to write |
-| 買います(I) | かいます | to buy |
-| 撮ります(I) | とります | to take (photo) |
-| します(III) | します | to do |
-| 会います(I) | あいます | to meet |
-| ご飯 | ごはん | meal, rice |
-| 朝ご飯 | あさごはん | breakfast |
-| 昼ご飯 | ひるごはん | lunch |
-| 晩ご飯 | ばんごはん | dinner |
-| パン | ぱん | bread |
-| 卵 | たまご | egg |
-| 肉 | にく | meat |
-| 魚 | さかな | fish |
-| 野菜 | やさい | vegetable |
-| 果物 | くだもの | fruit |
-| 水 | みず | water |
-| お茶 | おちゃ | tea |
-| 紅茶 | こうちゃ | black tea |
-| 牛乳(ミルク) | ぎゅうにゅう(みるく) | milk |
-| ジュース | じゅーす | juice |
-| ビール | びーる | beer |
-| 酒 | さけ | sake, alcohol |
-| たばこ | たばこ | cigarette |
+## 📖 Lesson 5 — Daily Routine & Time
 
-## Lesson 8 (လက်ရံ-၈)
+### Verbs
 
-| Japanese | Reading | Meaning |
-|----------|---------|---------|
-| 手紙 | てがみ | letter |
-| レポート | れぽーと | report |
-| 写真 | しゃしん | photograph |
-| ビデオ | びでお | video |
-| 店 | みせ | shop |
-| 庭 | にわ | garden |
-| 宿題 | しゅくだい | homework |
-| テニス | てにす | tennis |
-| サッカー | さっかー | soccer |
-| 花見 | はなみ | cherry blossom viewing |
-| 何 | なに | what |
-| 一緒に | いっしょに | together |
-| ちょっと | ちょっと | a little |
-| いつも | いつも | always |
-| 時々 | ときどき | sometimes |
-| それから | それから | and then |
-| ええ | ええ | yes |
+| # | Japanese | Reading | Group | Meaning |
+|---|----------|---------|-------|---------|
+| 1 | 起きます | おきます | II | to wake up |
+| 2 | 寝ます | ねます | II | to sleep |
+| 3 | 働きます | はたらきます | I | to work |
+| 4 | 休みます | やすみます | I | to rest |
+| 5 | 勉強します | べんきょうします | III | to study |
+| 6 | 終わります | おわります | I | to finish |
 
-## Lesson 9 (လက်ရံ-၉)
+### Nouns — Places
 
-| Japanese | Reading | Meaning |
-|----------|---------|---------|
-| 切ります(I) | きります | to cut |
-| 送ります(I) | おくります | to send |
-| あげます(I) | あげます | to give |
-| もらいます(I) | もらいます | to receive |
-| 貸します(I) | かします | to lend |
-| 借ります(I) | かります | to borrow |
-| 教えます(I) | おしえます | to teach |
-| 習います(I) | ならいます | to learn |
-| かけます(II) | かけます | to make a call |
-| 手 | て | hand |
-| 箸 | はし | chopsticks |
-| スプーン | すぷーん | spoon |
-| ナイフ | ないふ | knife |
-| フォーク | ふぉーく | fork |
-| はさみ | はさみ | scissors |
-| パソコン | ぱそこん | personal computer |
-| ケータイ | けーたい | mobile phone |
-| メール | めーる | email |
-| 年賀状 | ねんがじょう | New Year's card |
-| パンチ | ぱんち | punch |
-| ホッチキス | ほっちきす | stapler |
-| セロテープ | せろてーぷ | cellophane tape |
-| 消しゴム | けしごむ | eraser |
-| 紙 | かみ | paper |
-| 花 | はな | flower |
-| シャツ | しゃつ | shirt |
-| プレゼント | ぷれぜんと | present |
-| 荷物 | にもつ | luggage |
-| お金 | おかね | money |
-| 切符 | きっぷ | ticket |
-| クリスマス | くりすます | Christmas |
+| # | Japanese | Reading | Meaning |
+|---|----------|---------|---------|
+| 1 | デパート | でぱーと | department store |
+| 2 | 銀行 | ぎんこう | bank |
+| 3 | 郵便局 | ゆうびんきょく | post office |
+| 4 | 図書館 | としょかん | library |
+| 5 | 美術館 | びじゅつかん | art museum |
 
-## Lesson 10 (လက်ရံ-၁၀)
+### Nouns — Time
 
-| Japanese | Reading | Meaning |
-|----------|---------|---------|
-| 父 | ちち | father |
-| 母 | はは | mother |
-| お父さん | おとうさん | father (polite) |
-| お母さん | おかあさん | mother (polite) |
-| もう | もう | already |
-| まだ | まだ | yet, still |
-| これから | これから | from now on |
+| # | Japanese | Reading | Meaning |
+|---|----------|---------|---------|
+| 1 | 今 | いま | now |
+| 2 | 〜時 | 〜じ | o'clock |
+| 3 | 〜分 | 〜ふん | minute |
+| 4 | 半 | はん | half |
+| 5 | 何時 | なんじ | what time |
+| 6 | 何分 | なんぷん | what minute |
+| 7 | 午前 | ごぜん | AM |
+| 8 | 午後 | ごご | PM |
+| 9 | 朝 | あさ | morning |
+| 10 | 昼 | ひる | noon, daytime |
+| 11 | 晩（夜） | ばん（よる） | evening, night |
+| 12 | おととい | おととい | day before yesterday |
+| 13 | きのう | きのう | yesterday |
+| 14 | きょう | きょう | today |
+| 15 | あした | あした | tomorrow |
+| 16 | あさって | あさって | day after tomorrow |
+| 17 | けさ | けさ | this morning |
+| 18 | 今晩 | こんばん | this evening |
+| 19 | 休み | やすみ | rest, holiday |
+| 20 | 昼休み | ひるやすみ | lunch break |
 
-## Lesson 11 (လက်ရံ-၁၁)
+---
 
-| Japanese | Reading | Meaning |
-|----------|---------|---------|
-| ハンサム[な] | はんさむ | handsome |
-| きれい[な] | きれい | beautiful, clean |
-| 静か[な] | しずか | quiet |
-| にぎやか[な] | にぎやか | lively |
-| 有名[な] | ゆうめい | famous |
-| 親切[な] | しんせつ | kind |
-| 元気[な] | げんき | healthy, energetic |
-| 暇[な] | ひま | free time |
-| 便利[な] | べんり | convenient |
-| すてき[な] | すてき | lovely |
-| 大きい | おおきい | big |
-| 小さい | ちいさい | small |
-| 新しい | あたらしい | new |
-| 古い | ふるい | old |
-| いい(よい) | いい(よい) | good |
-| 悪い | わるい | bad |
-| 暑い、熱い | あつい | hot |
-| 寒い | さむい | cold |
-| 冷たい | つめたい | cold (to touch) |
-| 難しい | むずかしい | difficult |
-| 易しい | やさしい | easy |
-| 高い | たかい | high, expensive |
-| 安い | やすい | cheap |
-| 低い | ひくい | low |
-| おもしろい | おもしろい | interesting |
-| おいしい | おいしい | delicious |
-| いそがしい | いそがしい | busy |
-| 楽しい | たのしい | enjoyable |
-| 白い | しろい | white |
-| 黒い | くろい | black |
-| 赤い | あかい | red |
-| 青い | あおい | blue |
-| 桜 | さくら | cherry blossom |
+## 📖 Lesson 6 — Transportation & Calendar
 
-## Lesson 12 (လက်ရံ-၁၂)
+### Verbs
 
-| Japanese | Reading | Meaning |
-|----------|---------|---------|
-| 山 | やま | mountain |
-| 町 | まち | town |
-| 食べ物 | たべもの | food |
-| ところ | ところ | place |
-| 寮 | りょう | dormitory |
-| レストラン | れすとらん | restaurant |
-| 生活 | せいかつ | life |
-| 仕事 | しごと | work |
-| どう | どう | how |
-| どんな〜 | どんな | what kind of |
-| とても | とても | very |
-| あまり | あまり | not very |
-| そして | そして | and |
+| # | Japanese | Reading | Group | Meaning |
+|---|----------|---------|-------|---------|
+| 1 | 行きます | いきます | I | to go |
+| 2 | 来ます | きます | III | to come |
+| 3 | 帰ります | かえります | I | to return |
 
-## Lesson 13 (လက်ရံ-၁၃)
+### Nouns — Transport
 
-| Japanese | Reading | Meaning |
-|----------|---------|---------|
-| 分かります(I) | わかります | to understand |
-| あります(I) | あります | to have, to exist |
-| 好き[な] | すき | to like |
-| 嫌い[な] | きらい | to dislike |
-| 上手[な] | じょうず | good at |
-| 下手[な] | へた | poor at |
-| 飲み物 | のみもの | drink |
-| 料理 | りょうり | cooking |
-| スポーツ | すぽーつ | sports |
-| 野球 | やきゅう | baseball |
-| ダンス | だんす | dance |
-| 旅行 | りょこう | travel |
-| 音楽 | おんがく | music |
-| 歌 | うた | song |
-| クラシック | くらしっく | classical music |
-| ジャズ | じゃず | jazz |
-| コンサート | こんさーと | concert |
-| カラオケ | からおけ | karaoke |
-| 歌舞伎 | かぶき | kabuki |
-| 絵 | え | picture |
-| 字 | じ | character |
-| 漢字 | かんじ | kanji |
-| ひらがな | ひらがな | hiragana |
-| カタカナ | かたかな | katakana |
-| ローマ字 | ろーまじ | romaji |
-| 細かいお金 | こまかいおかね | small change |
-| チケット | ちけっと | ticket |
+| # | Japanese | Reading | Meaning |
+|---|----------|---------|---------|
+| 1 | 学校 | がっこう | school |
+| 2 | スーパー | すーぱー | supermarket |
+| 3 | 駅 | えき | station |
+| 4 | 飛行機 | ひこうき | airplane |
+| 5 | 船 | ふね | ship |
+| 6 | 電車 | でんしゃ | train |
+| 7 | 地下鉄 | ちかてつ | subway |
+| 8 | 新幹線 | しんかんせん | bullet train |
+| 9 | バス | ばす | bus |
+| 10 | タクシー | たくしー | taxi |
+| 11 | 自転車 | じてんしゃ | bicycle |
+| 12 | 歩いて | あるいて | on foot |
 
-## Lesson 14 (လက်ရံ-၁၄)
+### Nouns — People
 
-| Japanese | Reading | Meaning |
-|----------|---------|---------|
-| 時間 | じかん | time |
-| 用事 | ようじ | business, errand |
-| 約束 | やくそく | promise |
-| アルバイト | あるばいと | part-time job |
-| ご主人 | ごしゅじん | husband (polite) |
-| 夫/主人 | おっと/しゅじん | husband |
-| 奥さん | おくさん | wife (polite) |
-| 妻/家内 | つま/かない | wife |
-| 子ども | こども | child |
-| よく | よく | often |
-| だいたい | だいたい | mostly |
-| たくさん | たくさん | many, much |
-| 少し | すこし | a little |
-| 全然 | ぜんぜん | not at all |
-| 早く、速く | はやく | early, quickly |
+| # | Japanese | Reading | Meaning |
+|---|----------|---------|---------|
+| 1 | 人 | ひと | person |
+| 2 | 友達 | ともだち | friend |
+| 3 | 彼 | かれ | he, boyfriend |
+| 4 | 彼女 | かのじょ | she, girlfriend |
+| 5 | 家族 | かぞく | family |
+| 6 | 一人で | ひとりで | alone |
 
-## Lesson 15 (လက်ရံ-၁၅)
+### Nouns — Calendar
 
-| Japanese | Reading | Meaning |
-|----------|---------|---------|
-| あります(I) | あります | to have, to exist |
-| います(I) | います | to exist (animate) |
-| いろいろ[な] | いろいろ | various |
-| 男の人 | おとこのひと | man |
-| 女の人 | おんなのひと | woman |
-| 男の子 | おとこのこ | boy |
-| 女の子 | おんなのこ | girl |
-| 犬 | いぬ | dog |
-| 猫 | ねこ | cat |
-| パンダ | ぱんだ | panda |
-| 象 | ぞう | elephant |
-| 木 | き | tree |
-| 物 | もの | thing |
-| 電池 | でんち | battery |
-| 箱 | はこ | box |
-| スイッチ | すいっち | switch |
-| 冷蔵庫 | れいぞうこ | refrigerator |
-| テーブル | てーぶる | table |
-| ベッド | べっど | bed |
-| 棚 | たな | shelf |
-| ドア | どあ | door |
-| 窓 | まど | window |
-| ポスト | ぽすと | mailbox |
-| ビル | びる | building |
-| ATM | えーてぃーえむ | ATM |
-| コンビニ | こんびに | convenience store |
-| 公園 | こうえん | park |
-| 喫茶店 | きっさてん | coffee shop |
-| 〜屋 | 〜や | shop |
-| 乗り場 | のりば | boarding place |
+| # | Japanese | Reading | Meaning |
+|---|----------|---------|---------|
+| 1 | 先週 | せんしゅう | last week |
+| 2 | 今週 | こんしゅう | this week |
+| 3 | 来週 | らいしゅう | next week |
+| 4 | 先月 | せんげつ | last month |
+| 5 | 今月 | こんげつ | this month |
+| 6 | 来月 | らいげつ | next month |
+| 7 | 去年 | きょねん | last year |
+| 8 | 今年 | ことし | this year |
+| 9 | 来年 | らいねん | next year |
+| 10 | 〜年 | 〜ねん | year |
+| 11 | 何年 | なんねん | what year |
+| 12 | 〜月 | 〜がつ | month |
+| 13 | 何月 | なんがつ | what month |
 
-## Lesson 16 (လက်ရံ-၁၆)
+---
 
-| Japanese | Reading | Meaning |
-|----------|---------|---------|
-| 県 | けん | prefecture |
-| 上 | うえ | up, above |
-| 下 | した | down, below |
-| 前 | まえ | front |
-| 後ろ | うしろ | behind |
-| 右 | みぎ | right |
-| 左 | ひだり | left |
-| 中 | なか | inside |
-| 外 | そと | outside |
-| 隣 | となり | next to |
-| 近く | ちかく | near |
-| 間 | あいだ | between |
+## 📖 Lesson 7 — Food & Drink
 
-## Lesson 17 (လက်ရံ-၁၇)
+### Verbs
 
-| Japanese | Reading | Meaning |
-|----------|---------|---------|
-| います(I) | います | to exist (animate) |
-| かかります(I) | かかります | to take (time/money) |
-| 休みます(I) | やすみます | to rest |
-| 1つ | ひとつ | one |
-| 2つ | ふたつ | two |
-| 3つ | みっつ | three |
-| 4つ | よっつ | four |
-| 5つ | いつつ | five |
-| 6つ | むっつ | six |
-| 7つ | ななつ | seven |
-| 8つ | やっつ | eight |
-| 9つ | ここのつ | nine |
-| 10 | とお | ten |
-| いくつ | いくつ | how many |
-| 1人 | ひとり | one person |
-| 2人 | ふたり | two people |
-| 〜人 | 〜にん | people |
-| 〜台 | 〜だい | machines |
-| 〜枚 | 〜まい | flat things |
-| 〜回 | 〜かい | times |
-| りんご | りんご | apple |
-| みかん | みかん | mandarin orange |
-| サンドイッチ | さんどいっち | sandwich |
-| カレー[ライス] | かれー[らいす] | curry [rice] |
-| アイスクリーム | あいすくりーむ | ice cream |
-| 切手 | きって | postage stamp |
-| はがき | はがき | postcard |
-| 封筒 | ふうとう | envelope |
-| 両親 | りょうしん | parents |
-| 兄弟 | きょうだい | siblings |
-| 兄 | あに | older brother |
-| お兄さん | おにいさん | older brother (polite) |
-| 姉 | あね | older sister |
-| お姉さん | おねえさん | older sister (polite) |
-| 弟 | おとうと | younger brother |
-| 弟さん | おとうとさん | younger brother (polite) |
-| 妹 | いもうと | younger sister |
-| 妹さん | いもうとさん | younger sister (polite) |
-| 外国 | がいこく | foreign country |
-| 留学生 | りゅうがくせい | foreign student |
-| クラス | くらす | class |
-| 〜時間 | 〜じかん | hours |
-| 〜週間 | 〜しゅうかん | weeks |
-| 〜か月 | 〜かげつ | months |
-| 〜年 | 〜ねん | years |
-| 〜ぐらい | 〜ぐらい | about |
-| どのくらい | どのくらい | how much |
-| 全部で | ぜんぶで | in total |
-| みんな | みんな | everyone |
-| 〜だけ | 〜だけ | only |
+| # | Japanese | Reading | Group | Meaning |
+|---|----------|---------|-------|---------|
+| 1 | 食べます | たべます | II | to eat |
+| 2 | 飲みます | のみます | I | to drink |
+| 3 | 吸います | すいます | I | to smoke |
+| 4 | 見ます | みます | II | to see, to watch |
+| 5 | 聞きます | ききます | I | to hear, to listen |
+| 6 | 読みます | よみます | I | to read |
+| 7 | 書きます | かきます | I | to write |
+| 8 | 買います | かいます | I | to buy |
+| 9 | 撮ります | とります | I | to take (photo) |
+| 10 | します | します | III | to do |
+| 11 | 会います | あいます | I | to meet |
 
-## Lesson 18 (လက်ရံ-၁၈)
+### Nouns — Food
 
-| Japanese | Reading | Meaning |
-|----------|---------|---------|
-| 簡単[な] | かんたん | simple |
-| 近い | ちかい | near |
-| 遠い | とおい | far |
-| 速い、早い | はやい | fast, early |
-| 遅い | おそい | late, slow |
-| 多い[人が〜] | おおい | many |
-| 少ない[人が〜] | すくない | few |
-| 暖かい、温かい | あたたかい | warm |
-| 涼しい | すずしい | cool |
-| 甘い | あまい | sweet |
-| 辛い | からい | spicy |
-| 重い | おもい | heavy |
-| 軽い | かるい | light |
-| いい[コーヒーが〜] | いい | good |
-| 季節 | きせつ | season |
-| 春 | はる | spring |
-| 夏 | なつ | summer |
-| 秋 | あき | autumn |
-| 冬 | ふゆ | winter |
-| 天気 | てんき | weather |
-| 雨 | あめ | rain |
-| 雪 | ゆき | snow |
-| 曇り | くもり | cloudy |
-| ホテル | ほてる | hotel |
-| 空港 | くうこう | airport |
-| 海 | うみ | sea |
-| 世界 | せかい | world |
-| パーティー | ぱーてぃー | party |
-| 祭り | まつり | festival |
-| すき焼き | すきやき | sukiyaki |
-| 刺身 | さしみ | sashimi |
-| 寿司 | すし | sushi |
-| 天ぷら | てんぷら | tempura |
-| 豚肉 | ぶたにく | pork |
-| 鳥肉 | とりにく | chicken |
-| 牛肉 | ぎゅうにく | beef |
-| レモン | れもん | lemon |
-| 生け花 | いけばな | flower arrangement |
-| 紅葉 | もみじ | autumn leaves |
-| どちら | どちら | which |
-| どちらも | どちらも | both |
-| いちばん | いちばん | most, number one |
-| ずっと | ずっと | much more |
-| 初めて | はじめて | for the first time |
+| # | Japanese | Reading | Meaning |
+|---|----------|---------|---------|
+| 1 | ご飯 | ごはん | meal, rice |
+| 2 | 朝ご飯 | あさごはん | breakfast |
+| 3 | 昼ご飯 | ひるごはん | lunch |
+| 4 | 晩ご飯 | ばんごはん | dinner |
+| 5 | パン | ぱん | bread |
+| 6 | 卵 | たまご | egg |
+| 7 | 肉 | にく | meat |
+| 8 | 魚 | さかな | fish |
+| 9 | 野菜 | やさい | vegetable |
+| 10 | 果物 | くだもの | fruit |
 
-## Lesson 19 (လက်ရံ-၁၉)
+### Nouns — Drinks
 
-| Japanese | Reading | Meaning |
-|----------|---------|---------|
-| 遊びます(I) | あそびます | to play |
-| 泳ぎます(I) | およぎます | to swim |
-| 迎えます(I) | むかえます | to meet, to welcome |
-| 疲れます(I) | つかれます | to get tired |
-| 結婚します(III) | けっこんします | to marry |
-| 買い物します(III) | かいものします | to shop |
-| 食事します(III) | しょくじします | to have a meal |
-| 散歩します(III) | さんぽします | to take a walk |
-| 大変[な] | たいへん | tough |
-| 欲しい | ほしい | to want |
-| 広い | ひろい | wide, spacious |
-| 狭い | せまい | narrow |
-| プール | ぷーる | pool |
-| 川 | かわ | river |
-| 美術 | びじゅつ | art |
-| 釣り | つり | fishing |
-| スキー | すきー | skiing |
-| 週末 | しゅうまつ | weekend |
-| 正月 | しょうがつ | New Year |
-| 〜ごろ | 〜ごろ | about |
-| 何か | なにか | something |
-| どこか | どこか | somewhere |
+| # | Japanese | Reading | Meaning |
+|---|----------|---------|---------|
+| 1 | 水 | みず | water |
+| 2 | お茶 | おちゃ | tea |
+| 3 | 紅茶 | こうちゃ | black tea |
+| 4 | 牛乳（ミルク） | ぎゅうにゅう（みるく） | milk |
+| 5 | ジュース | じゅーす | juice |
+| 6 | ビール | びーる | beer |
+| 7 | 酒 | さけ | sake, alcohol |
+| 8 | たばこ | たばこ | cigarette |
 
-## Lesson 20 (လက်ရံ-၂၀)
+---
 
-| Japanese | Reading | Meaning |
-|----------|---------|---------|
-| つけます(II) | つけます | to turn on |
-| 消します(I) | けします | to turn off |
-| 開けます(II) | あけます | to open |
-| 閉めます(II) | しめます | to close |
-| 急ぎます(I) | いそぎます | to hurry |
-| 待ちます(I) | まちます | to wait |
-| 持ちます(I) | もちます | to hold |
-| 取ります(I) | とります | to take |
-| 手伝います(I) | てつだいます | to help |
-| 呼びます(I) | よびます | to call |
-| 話します(I) | はなします | to speak |
-| 使います(I) | つかいます | to use |
-| 止めます(II) | とめます | to stop |
-| 見せます(II) | みせます | to show |
-| 教えます(II) | おしえます | to teach |
-| 座ります(I) | すわります | to sit |
-| 立ちます(I) | たちます | to stand |
-| 入ります(I) | はいります | to enter |
-| 出ます(II) | でます | to exit |
-| 降ります(I) | おります | to get off |
-| コピーします(III) | こぴーします | to copy |
-| 電気 | でんき | electricity |
-| エアコン | えあこん | air conditioner |
-| パスポート | ぱすぽーと | passport |
-| 名前 | なまえ | name |
-| 住所 | じゅうしょ | address |
-| 地図 | ちず | map |
-| 塩 | しお | salt |
-| 砂糖 | さとう | sugar |
+## 📖 Lesson 8 — Hobbies & Activities
 
-## Lesson 21 (လက်ရံ-၂၁)
+| # | Japanese | Reading | Meaning |
+|---|----------|---------|---------|
+| 1 | 手紙 | てがみ | letter |
+| 2 | レポート | れぽーと | report |
+| 3 | 写真 | しゃしん | photograph |
+| 4 | ビデオ | びでお | video |
+| 5 | 店 | みせ | shop |
+| 6 | 庭 | にわ | garden |
+| 7 | 宿題 | しゅくだい | homework |
+| 8 | テニス | てにす | tennis |
+| 9 | サッカー | さっかー | soccer |
+| 10 | 花見 | はなみ | cherry blossom viewing |
+| 11 | 何 | なに | what |
+| 12 | 一緒に | いっしょに | together |
+| 13 | ちょっと | ちょっと | a little |
+| 14 | いつも | いつも | always |
+| 15 | 時々 | ときどき | sometimes |
+| 16 | それから | それから | and then |
+| 17 | ええ | ええ | yes |
 
-| Japanese | Reading | Meaning |
-|----------|---------|---------|
-| 問題 | もんだい | problem |
-| 答え | こたえ | answer |
-| 読み方 | よみかた | way of reading |
-| 〜方 | 〜かた | way of |
-| まっすぐ | まっすぐ | straight |
-| ゆっくり | ゆっくり | slowly |
-| すぐ | すぐ | immediately |
-| また | また | again |
-| あとで | あとで | later |
-| もう少し | もうすこし | a little more |
-| もう〜 | もう〜 | more |
+---
 
-## Lesson 22 (လက်ရံ-၂၂)
+## 📖 Lesson 9 — Giving, Receiving & Tools
 
-| Japanese | Reading | Meaning |
-|----------|---------|---------|
-| 置きます(I) | おきます | to put |
-| 作ります(I) | つくります | to make |
-| 売ります(I) | うります | to sell |
-| 知ります(I) | しります | to know |
-| 住みます(I) | すみます | to live |
-| 研究します(III) | けんきゅうします | to research |
-| 資料 | しりょう | materials |
-| カタログ | かたろぐ | catalog |
-| 時刻表 | じこくひょう | timetable |
-| 服 | ふく | clothes |
-| 製品 | せいひん | product |
-| ソフト | そふと | software |
-| 電子辞書 | でんしじしょ | electronic dictionary |
-| 経済 | けいざい | economy |
-| 市役所 | しやくしょ | city hall |
-| 高校 | こうこう | high school |
-| 歯医者 | はいしゃ | dentist |
-| 独身 | どくしん | single |
+### Verbs
 
-## Lesson 23 (လက်ရံ-၂၃)
+| # | Japanese | Reading | Group | Meaning |
+|---|----------|---------|-------|---------|
+| 1 | 切ります | きります | I | to cut |
+| 2 | 送ります | おくります | I | to send |
+| 3 | あげます | あげます | II | to give |
+| 4 | もらいます | もらいます | I | to receive |
+| 5 | 貸します | かします | I | to lend |
+| 6 | 借ります | かります | II | to borrow |
+| 7 | 教えます | おしえます | II | to teach |
+| 8 | 習います | ならいます | I | to learn |
+| 9 | かけます | かけます | II | to make a call |
 
-| Japanese | Reading | Meaning |
-|----------|---------|---------|
-| 皆さん | みなさん | everyone |
+### Nouns — Tools & Stationery
 
-## Lesson 24 (လက်ရံ-၂၄)
+| # | Japanese | Reading | Meaning |
+|---|----------|---------|---------|
+| 1 | 手 | て | hand |
+| 2 | 箸 | はし | chopsticks |
+| 3 | スプーン | すぷーん | spoon |
+| 4 | ナイフ | ないふ | knife |
+| 5 | フォーク | ふぉーく | fork |
+| 6 | はさみ | はさみ | scissors |
+| 7 | パソコン | ぱそこん | personal computer |
+| 8 | ケータイ | けーたい | mobile phone |
+| 9 | メール | めーる | email |
+| 10 | 年賀状 | ねんがじょう | New Year's card |
+| 11 | パンチ | ぱんち | punch |
+| 12 | ホッチキス | ほっちきす | stapler |
+| 13 | セロテープ | せろてーぷ | cellophane tape |
+| 14 | 消しゴム | けしごむ | eraser |
+| 15 | 紙 | かみ | paper |
 
-| Japanese | Reading | Meaning |
-|----------|---------|---------|
-| 覚えます(II) | おぼえます | to remember |
-| 忘れます(II) | わすれます | to forget |
-| なくします(I) | なくします | to lose |
-| 払います(I) | はらいます | to pay |
-| 返します(I) | かえします | to return |
-| 出かけます(II) | でかけます | to go out |
-| 脱ぎます(I) | ぬぎます | to take off |
-| 持って行きます(I) | もっていきます | to take (something) |
-| 持って来ます(III) | もってきます | to bring (something) |
-| 心配します(III) | しんぱいします | to worry |
-| 残業します(III) | ざんぎょうします | to work overtime |
-| 出張します(III) | しゅっちょうします | to go on a business trip |
-| 飲みます(I) | のみます | to drink |
-| 入ります(I) | はいります | to enter |
-| 大切[な] | たいせつ | important |
-| 大丈夫[な] | だいじょうぶ | all right |
-| 危ない | あぶない | dangerous |
-| 禁煙 | きんえん | no smoking |
-| 健康保険証 | けんこうほけんしょう | health insurance card |
-| 熱 | ねつ | fever |
-| 病気 | びょうき | illness |
-| 薬 | くすり | medicine |
-| 風呂 | ふろ | bath |
+### Nouns — Gifts & Others
 
-## Lesson 25 (လက်ရံ-၂၅)
+| # | Japanese | Reading | Meaning |
+|---|----------|---------|---------|
+| 1 | 花 | はな | flower |
+| 2 | シャツ | しゃつ | shirt |
+| 3 | プレゼント | ぷれぜんと | present |
+| 4 | 荷物 | にもつ | luggage |
+| 5 | お金 | おかね | money |
+| 6 | 切符 | きっぷ | ticket |
+| 7 | クリスマス | くりすます | Christmas |
 
-| Japanese | Reading | Meaning |
-|----------|---------|---------|
-| 上着 | うわぎ | outerwear |
-| 下着 | したぎ | underwear |
-| 2、3日 | 2、3にち | two or three days |
-| 2、3〜 | 2、3〜 | two or three |
-| 〜までに | 〜までに | by |
-| ですから | ですから | therefore |
-| どうしましたか。 | どうしましたか。 | What's wrong? |
-| のど | のど | throat |
-| 痛いです。 | いたいです。 | It hurts. |
-| 風邪 | かぜ | cold |
-| それから | それから | and then |
-| お大事に。 | おだいじに。 | Take care. |
+---
 
-## Expressions/Phrases (会話/練習C - scattered throughout)
+## 📖 Lesson 10 — Family
 
-| Japanese | Reading | Meaning |
-|----------|---------|---------|
-| 初めまして。 | はじめまして。 | Nice to meet you. |
-| 〜から来ました。 | 〜からきました。 | I came from〜 |
-| どうぞよろしくお願いします。 | どうぞよろしくおねがいします。 | Please treat me kindly. |
-| 失礼ですが | しつれいですが | Excuse me, but |
-| お名前は？ | おなまえは？ | What is your name? |
-| こちらは〜さんです。 | こちらは〜さんです。 | This is Mr./Ms.〜 |
-| すみません。 | すみません。 | Excuse me. / I'm sorry. |
-| どうも。 | どうも。 | Thanks. / Hello. |
-| いらっしゃいませ。 | いらっしゃいませ。 | Welcome. |
-| 〜を見せてください。 | 〜をみせてください。 | Please show me〜 |
-| じゃ | じゃ | well then |
-| 〜をください。 | 〜をください。 | Please give me〜 |
-| 大変ですね。 | たいへんですね。 | That's tough, isn't it? |
-| 番号 | ばんごう | number |
-| 何番 | なんばん | what number |
-| そちら | そちら | that side |
-| そうですね。 | そうですね。 | That's right. |
-| [どうも]ありがとうございました。 | [どうも]ありがとうございました。 | Thank you very much. |
-| どういたしまして。 | どういたしまして。 | You're welcome. |
-| ただいま。 | ただいま。 | I'm home. |
-| お帰りなさい。 | おかえりなさい。 | Welcome home. |
-| わあ、すごい人ですね。 | わあ、すごいひとですね。 | Wow, there are so many people. |
-| 疲れました。 | つかれました。 | I'm tired. |
-| ご注文は？ | ごちゅうもんは？ | May I take your order? |
-| 定食 | ていしょく | set meal |
-| 牛どん | ぎゅうどん | beef bowl |
-| [少々]お待ちください。 | [しょうしょう]おまちください。 | Please wait a moment. |
-| 〜でございます。 | 〜でございます。 | This is〜 (polite) |
-| 別々に | べつべつに | separately |
-| 思い出します(I) | おもいだします | to remember, to recall |
-| いらっしゃいます(I) | いらっしゃいます | to come, to go (honorific) |
-| のどがかわきます | のどがかわきます | to get thirsty |
-| おなかがすきます | おなかがすきます | to get hungry |
-| そうしましょう。 | そうしましょう。 | Let's do that. |
-| 貸してください。 | かしてください。 | Please lend me. |
-| いいですよ。 | いいですよ。 | It's okay. |
-| 残念です[が] | ざんねんです[が] | That's too bad, but |
-| ああ | ああ | ah |
-| いっしょにいかがですか。 | いっしょにいかがですか。 | How about going together? |
-| [〜は]ちょっと……。 | [〜は]ちょっと……。 | [〜is] a bit... |
-| だめですか。 | だめですか。 | Is it no good? |
-| また今度お願いします。 | またこんどおねがいします。 | Please ask me again next time. |
-| お元気ですか。 | おげんきですか。 | How are you? |
-| [〜、]すてきですね。 | [〜、]すてきですね。 | [〜is] lovely, isn't it? |
-| いいですね。 | いいですね。 | That's nice. |
-| わかりました。 | わかりました。 | I understand. |
-| 何ですか。 | なんですか。 | What is it? |
-| じゃ、また[あした]。 | じゃ、また[あした]。 | Well then, see you [tomorrow]. |
-| すごいですね。 | すごいですね。 | That's amazing. |
-| [いいえ、]まだまだです。 | [いいえ、]まだまだです。 | [No,] not at all. |
-| お引き出しですか。 | おひきだしですか。 | Is it a withdrawal? |
-| まず | まず | first |
-| 次に | つぎに | next |
-| キャッシュカード | きゃっしゅかーど | cash card |
-| 暗証番号 | あんしょうばんごう | PIN number |
-| 金額 | きんがく | amount |
-| 確認 | かくにん | confirmation |
-| ボタン | ぼたん | button |
-| 信号を右へ曲がってください。 | しんごうをみぎへまがってください。 | Please turn right at the signal. |
-| これでお願いします。 | これでおねがいします。 | This is all, please. |
-| お釣り | おつり | change |
-| 皆さん | みなさん | everyone |
+| # | Japanese | Reading | Meaning |
+|---|----------|---------|---------|
+| 1 | 父 | ちち | father |
+| 2 | 母 | はは | mother |
+| 3 | お父さん | おとうさん | father (polite) |
+| 4 | お母さん | おかあさん | mother (polite) |
+| 5 | もう | もう | already |
+| 6 | まだ | まだ | yet, still |
+| 7 | これから | これから | from now on |
+
+---
+
+## 📖 Lesson 11 — Adjectives
+
+### な-Adjectives
+
+| # | Japanese | Reading | Meaning |
+|---|----------|---------|---------|
+| 1 | ハンサム[な] | はんさむ | handsome |
+| 2 | きれい[な] | きれい | beautiful, clean |
+| 3 | 静か[な] | しずか | quiet |
+| 4 | にぎやか[な] | にぎやか | lively |
+| 5 | 有名[な] | ゆうめい | famous |
+| 6 | 親切[な] | しんせつ | kind |
+| 7 | 元気[な] | げんき | healthy, energetic |
+| 8 | 暇[な] | ひま | free time |
+| 9 | 便利[な] | べんり | convenient |
+| 10 | すてき[な] | すてき | lovely |
+
+### い-Adjectives
+
+| # | Japanese | Reading | Meaning |
+|---|----------|---------|---------|
+| 1 | 大きい | おおきい | big |
+| 2 | 小さい | ちいさい | small |
+| 3 | 新しい | あたらしい | new |
+| 4 | 古い | ふるい | old |
+| 5 | いい（よい） | いい（よい） | good |
+| 6 | 悪い | わるい | bad |
+| 7 | 暑い、熱い | あつい | hot |
+| 8 | 寒い | さむい | cold |
+| 9 | 冷たい | つめたい | cold (to touch) |
+| 10 | 難しい | むずかしい | difficult |
+| 11 | 易しい | やさしい | easy |
+| 12 | 高い | たかい | high, expensive |
+| 13 | 安い | やすい | cheap |
+| 14 | 低い | ひくい | low |
+| 15 | おもしろい | おもしろい | interesting |
+| 16 | おいしい | おいしい | delicious |
+| 17 | いそがしい | いそがしい | busy |
+| 18 | 楽しい | たのしい | enjoyable |
+| 19 | 白い | しろい | white |
+| 20 | 黒い | くろい | black |
+| 21 | 赤い | あかい | red |
+| 22 | 青い | あおい | blue |
+
+### Nouns
+
+| # | Japanese | Reading | Meaning |
+|---|----------|---------|---------|
+| 1 | 桜 | さくら | cherry blossom |
+
+---
+
+## 📖 Lesson 12 — Descriptions & Comparisons
+
+| # | Japanese | Reading | Meaning |
+|---|----------|---------|---------|
+| 1 | 山 | やま | mountain |
+| 2 | 町 | まち | town |
+| 3 | 食べ物 | たべもの | food |
+| 4 | ところ | ところ | place |
+| 5 | 寮 | りょう | dormitory |
+| 6 | レストラン | れすとらん | restaurant |
+| 7 | 生活 | せいかつ | life |
+| 8 | 仕事 | しごと | work |
+| 9 | どう | どう | how |
+| 10 | どんな〜 | どんな | what kind of |
+| 11 | とても | とても | very |
+| 12 | あまり | あまり | not very |
+| 13 | そして | そして | and |
+
+---
+
+## 📖 Lesson 13 — Likes, Dislikes & Abilities
+
+### Adjectives & Verbs
+
+| # | Japanese | Reading | Meaning |
+|---|----------|---------|---------|
+| 1 | 分かります | わかります | to understand |
+| 2 | あります | あります | to have, to exist |
+| 3 | 好き[な] | すき | to like |
+| 4 | 嫌い[な] | きらい | to dislike |
+| 5 | 上手[な] | じょうず | good at |
+| 6 | 下手[な] | へた | poor at |
+
+### Nouns — Hobbies & Culture
+
+| # | Japanese | Reading | Meaning |
+|---|----------|---------|---------|
+| 1 | 飲み物 | のみもの | drink |
+| 2 | 料理 | りょうり | cooking |
+| 3 | スポーツ | すぽーつ | sports |
+| 4 | 野球 | やきゅう | baseball |
+| 5 | ダンス | だんす | dance |
+| 6 | 旅行 | りょこう | travel |
+| 7 | 音楽 | おんがく | music |
+| 8 | 歌 | うた | song |
+| 9 | クラシック | くらしっく | classical music |
+| 10 | ジャズ | じゃず | jazz |
+| 11 | コンサート | こんさーと | concert |
+| 12 | カラオケ | からおけ | karaoke |
+| 13 | 歌舞伎 | かぶき | kabuki |
+| 14 | 絵 | え | picture |
+| 15 | 字 | じ | character |
+| 16 | 漢字 | かんじ | kanji |
+| 17 | ひらがな | ひらがな | hiragana |
+| 18 | カタカナ | かたかな | katakana |
+| 19 | ローマ字 | ろーまじ | romaji |
+| 20 | 細かいお金 | こまかいおかね | small change |
+| 21 | チケット | ちけっと | ticket |
+
+---
+
+## 📖 Lesson 14 — Appointments & Frequency
+
+| # | Japanese | Reading | Meaning |
+|---|----------|---------|---------|
+| 1 | 時間 | じかん | time |
+| 2 | 用事 | ようじ | business, errand |
+| 3 | 約束 | やくそく | promise |
+| 4 | アルバイト | あるばいと | part-time job |
+| 5 | ご主人 | ごしゅじん | husband (polite) |
+| 6 | 夫／主人 | おっと／しゅじん | husband |
+| 7 | 奥さん | おくさん | wife (polite) |
+| 8 | 妻／家内 | つま／かない | wife |
+| 9 | 子ども | こども | child |
+| 10 | よく | よく | often |
+| 11 | だいたい | だいたい | mostly |
+| 12 | たくさん | たくさん | many, much |
+| 13 | 少し | すこし | a little |
+| 14 | 全然 | ぜんぜん | not at all |
+| 15 | 早く、速く | はやく | early, quickly |
+
+---
+
+## 📖 Lesson 15 — Existence & Position
+
+### Verbs & Adjectives
+
+| # | Japanese | Reading | Meaning |
+|---|----------|---------|---------|
+| 1 | あります | あります | to have, to exist (inanimate) |
+| 2 | います | います | to exist (animate) |
+| 3 | いろいろ[な] | いろいろ | various |
+
+### Nouns — People & Animals
+
+| # | Japanese | Reading | Meaning |
+|---|----------|---------|---------|
+| 1 | 男の人 | おとこのひと | man |
+| 2 | 女の人 | おんなのひと | woman |
+| 3 | 男の子 | おとこのこ | boy |
+| 4 | 女の子 | おんなのこ | girl |
+| 5 | 犬 | いぬ | dog |
+| 6 | 猫 | ねこ | cat |
+| 7 | パンダ | ぱんだ | panda |
+| 8 | 象 | ぞう | elephant |
+| 9 | 木 | き | tree |
+| 10 | 物 | もの | thing |
+
+### Nouns — Household & Appliances
+
+| # | Japanese | Reading | Meaning |
+|---|----------|---------|---------|
+| 1 | 電池 | でんち | battery |
+| 2 | 箱 | はこ | box |
+| 3 | スイッチ | すいっち | switch |
+| 4 | 冷蔵庫 | れいぞうこ | refrigerator |
+| 5 | テーブル | てーぶる | table |
+| 6 | ベッド | べっど | bed |
+| 7 | 棚 | たな | shelf |
+| 8 | ドア | どあ | door |
+| 9 | 窓 | まど | window |
+
+### Nouns — Places
+
+| # | Japanese | Reading | Meaning |
+|---|----------|---------|---------|
+| 1 | ポスト | ぽすと | mailbox |
+| 2 | ビル | びる | building |
+| 3 | ATM | えーてぃーえむ | ATM |
+| 4 | コンビニ | こんびに | convenience store |
+| 5 | 公園 | こうえん | park |
+| 6 | 喫茶店 | きっさてん | coffee shop |
+| 7 | 〜屋 | 〜や | shop |
+| 8 | 乗り場 | のりば | boarding place |
+
+---
+
+## 📖 Lesson 16 — Position Words
+
+| # | Japanese | Reading | Meaning |
+|---|----------|---------|---------|
+| 1 | 県 | けん | prefecture |
+| 2 | 上 | うえ | up, above |
+| 3 | 下 | した | down, below |
+| 4 | 前 | まえ | front |
+| 5 | 後ろ | うしろ | behind |
+| 6 | 右 | みぎ | right |
+| 7 | 左 | ひだり | left |
+| 8 | 中 | なか | inside |
+| 9 | 外 | そと | outside |
+| 10 | 隣 | となり | next to |
+| 11 | 近く | ちかく | near |
+| 12 | 間 | あいだ | between |
+
+---
+
+## 📖 Lesson 17 — Counters & Family
+
+### Verbs
+
+| # | Japanese | Reading | Group | Meaning |
+|---|----------|---------|-------|---------|
+| 1 | います | います | II | to exist (animate) |
+| 2 | かかります | かかります | I | to take (time/money) |
+| 3 | 休みます | やすみます | I | to rest |
+
+### Counters — Japanese Numbers
+
+| # | Japanese | Reading | Meaning |
+|---|----------|---------|---------|
+| 1 | 1つ | ひとつ | one |
+| 2 | 2つ | ふたつ | two |
+| 3 | 3つ | みっつ | three |
+| 4 | 4つ | よっつ | four |
+| 5 | 5つ | いつつ | five |
+| 6 | 6つ | むっつ | six |
+| 7 | 7つ | ななつ | seven |
+| 8 | 8つ | やっつ | eight |
+| 9 | 9つ | ここのつ | nine |
+| 10 | 10 | とお | ten |
+| 11 | いくつ | いくつ | how many |
+
+### Counters — Suffixes
+
+| # | Japanese | Reading | Meaning |
+|---|----------|---------|---------|
+| 1 | 1人 | ひとり | one person |
+| 2 | 2人 | ふたり | two people |
+| 3 | 〜人 | 〜にん | people |
+| 4 | 〜台 | 〜だい | machines |
+| 5 | 〜枚 | 〜まい | flat things |
+| 6 | 〜回 | 〜かい | times |
+
+### Nouns — Food
+
+| # | Japanese | Reading | Meaning |
+|---|----------|---------|---------|
+| 1 | りんご | りんご | apple |
+| 2 | みかん | みかん | mandarin orange |
+| 3 | サンドイッチ | さんどいっち | sandwich |
+| 4 | カレー[ライス] | かれー[らいす] | curry [rice] |
+| 5 | アイスクリーム | あいすくりーむ | ice cream |
+
+### Nouns — Post & Stationery
+
+| # | Japanese | Reading | Meaning |
+|---|----------|---------|---------|
+| 1 | 切手 | きって | postage stamp |
+| 2 | はがき | はがき | postcard |
+| 3 | 封筒 | ふうとう | envelope |
+
+### Nouns — Family
+
+| # | Japanese | Reading | Meaning |
+|---|----------|---------|---------|
+| 1 | 両親 | りょうしん | parents |
+| 2 | 兄弟 | きょうだい | siblings |
+| 3 | 兄 | あに | older brother |
+| 4 | お兄さん | おにいさん | older brother (polite) |
+| 5 | 姉 | あね | older sister |
+| 6 | お姉さん | おねえさん | older sister (polite) |
+| 7 | 弟 | おとうと | younger brother |
+| 8 | 弟さん | おとうとさん | younger brother (polite) |
+| 9 | 妹 | いもうと | younger sister |
+| 10 | 妹さん | いもうとさん | younger sister (polite) |
+
+### Nouns — Others
+
+| # | Japanese | Reading | Meaning |
+|---|----------|---------|---------|
+| 1 | 外国 | がいこく | foreign country |
+| 2 | 留学生 | りゅうがくせい | foreign student |
+| 3 | クラス | くらす | class |
+
+### Duration Expressions
+
+| # | Japanese | Reading | Meaning |
+|---|----------|---------|---------|
+| 1 | 〜時間 | 〜じかん | hours |
+| 2 | 〜週間 | 〜しゅうかん | weeks |
+| 3 | 〜か月 | 〜かげつ | months |
+| 4 | 〜年 | 〜ねん | years |
+| 5 | 〜ぐらい | 〜ぐらい | about |
+| 6 | どのくらい | どのくらい | how much |
+| 7 | 全部で | ぜんぶで | in total |
+| 8 | みんな | みんな | everyone |
+| 9 | 〜だけ | 〜だけ | only |
+
+---
+
+## 📖 Lesson 18 — Comparisons & Seasons
+
+### Adjectives
+
+| # | Japanese | Reading | Meaning |
+|---|----------|---------|---------|
+| 1 | 簡単[な] | かんたん | simple |
+| 2 | 近い | ちかい | near |
+| 3 | 遠い | とおい | far |
+| 4 | 速い、早い | はやい | fast, early |
+| 5 | 遅い | おそい | late, slow |
+| 6 | 多い | おおい | many |
+| 7 | 少ない | すくない | few |
+| 8 | 暖かい、温かい | あたたかい | warm |
+| 9 | 涼しい | すずしい | cool |
+| 10 | 甘い | あまい | sweet |
+| 11 | 辛い | からい | spicy |
+| 12 | 重い | おもい | heavy |
+| 13 | 軽い | かるい | light |
+| 14 | いい | いい | good |
+
+### Nouns — Seasons & Weather
+
+| # | Japanese | Reading | Meaning |
+|---|----------|---------|---------|
+| 1 | 季節 | きせつ | season |
+| 2 | 春 | はる | spring |
+| 3 | 夏 | なつ | summer |
+| 4 | 秋 | あき | autumn |
+| 5 | 冬 | ふゆ | winter |
+| 6 | 天気 | てんき | weather |
+| 7 | 雨 | あめ | rain |
+| 8 | 雪 | ゆき | snow |
+| 9 | 曇り | くもり | cloudy |
+
+### Nouns — Places & Food
+
+| # | Japanese | Reading | Meaning |
+|---|----------|---------|---------|
+| 1 | ホテル | ほてる | hotel |
+| 2 | 空港 | くうこう | airport |
+| 3 | 海 | うみ | sea |
+| 4 | 世界 | せかい | world |
+| 5 | パーティー | ぱーてぃー | party |
+| 6 | 祭り | まつり | festival |
+| 7 | すき焼き | すきやき | sukiyaki |
+| 8 | 刺身 | さしみ | sashimi |
+| 9 | 寿司 | すし | sushi |
+| 10 | 天ぷら | てんぷら | tempura |
+| 11 | 豚肉 | ぶたにく | pork |
+| 12 | 鳥肉 | とりにく | chicken |
+| 13 | 牛肉 | ぎゅうにく | beef |
+| 14 | レモン | れもん | lemon |
+| 15 | 生け花 | いけばな | flower arrangement |
+| 16 | 紅葉 | もみじ | autumn leaves |
+
+### Expressions
+
+| # | Japanese | Reading | Meaning |
+|---|----------|---------|---------|
+| 1 | どちら | どちら | which |
+| 2 | どちらも | どちらも | both |
+| 3 | いちばん | いちばん | most, number one |
+| 4 | ずっと | ずっと | much more |
+| 5 | 初めて | はじめて | for the first time |
+
+---
+
+## 📖 Lesson 19 — Experiences & Wishes
+
+### Verbs
+
+| # | Japanese | Reading | Group | Meaning |
+|---|----------|---------|-------|---------|
+| 1 | 遊びます | あそびます | I | to play |
+| 2 | 泳ぎます | およぎます | I | to swim |
+| 3 | 迎えます | むかえます | II | to meet, to welcome |
+| 4 | 疲れます | つかれます | II | to get tired |
+| 5 | 結婚します | けっこんします | III | to marry |
+| 6 | 買い物します | かいものします | III | to shop |
+| 7 | 食事します | しょくじします | III | to have a meal |
+| 8 | 散歩します | さんぽします | III | to take a walk |
+
+### Adjectives & Nouns
+
+| # | Japanese | Reading | Meaning |
+|---|----------|---------|---------|
+| 1 | 大変[な] | たいへん | tough |
+| 2 | 欲しい | ほしい | to want |
+| 3 | 広い | ひろい | wide, spacious |
+| 4 | 狭い | せまい | narrow |
+| 5 | プール | ぷーる | pool |
+| 6 | 川 | かわ | river |
+| 7 | 美術 | びじゅつ | art |
+| 8 | 釣り | つり | fishing |
+| 9 | スキー | すきー | skiing |
+| 10 | 週末 | しゅうまつ | weekend |
+| 11 | 正月 | しょうがつ | New Year |
+| 12 | 〜ごろ | 〜ごろ | about |
+| 13 | 何か | なにか | something |
+| 14 | どこか | どこか | somewhere |
+
+---
+
+## 📖 Lesson 20 — Requests & Directions
+
+### Verbs
+
+| # | Japanese | Reading | Group | Meaning |
+|---|----------|---------|-------|---------|
+| 1 | つけます | つけます | II | to turn on |
+| 2 | 消します | けします | I | to turn off |
+| 3 | 開けます | あけます | II | to open |
+| 4 | 閉めます | しめます | II | to close |
+| 5 | 急ぎます | いそぎます | I | to hurry |
+| 6 | 待ちます | まちます | I | to wait |
+| 7 | 持ちます | もちます | I | to hold |
+| 8 | 取ります | とります | I | to take |
+| 9 | 手伝います | てつだいます | I | to help |
+| 10 | 呼びます | よびます | I | to call |
+| 11 | 話します | はなします | I | to speak |
+| 12 | 使います | つかいます | I | to use |
+| 13 | 止めます | とめます | II | to stop |
+| 14 | 見せます | みせます | II | to show |
+| 15 | 教えます | おしえます | II | to teach |
+| 16 | 座ります | すわります | I | to sit |
+| 17 | 立ちます | たちます | I | to stand |
+| 18 | 入ります | はいります | I | to enter |
+| 19 | 出ます | でます | II | to exit |
+| 20 | 降ります | おります | II | to get off |
+| 21 | コピーします | こぴーします | III | to copy |
+
+### Nouns
+
+| # | Japanese | Reading | Meaning |
+|---|----------|---------|---------|
+| 1 | 電気 | でんき | electricity |
+| 2 | エアコン | えあこん | air conditioner |
+| 3 | パスポート | ぱすぽーと | passport |
+| 4 | 名前 | なまえ | name |
+| 5 | 住所 | じゅうしょ | address |
+| 6 | 地図 | ちず | map |
+| 7 | 塩 | しお | salt |
+| 8 | 砂糖 | さとう | sugar |
+
+---
+
+## 📖 Lesson 21 — Instructions & Manner
+
+| # | Japanese | Reading | Meaning |
+|---|----------|---------|---------|
+| 1 | 問題 | もんだい | problem |
+| 2 | 答え | こたえ | answer |
+| 3 | 読み方 | よみかた | way of reading |
+| 4 | 〜方 | 〜かた | way of |
+| 5 | まっすぐ | まっすぐ | straight |
+| 6 | ゆっくり | ゆっくり | slowly |
+| 7 | すぐ | すぐ | immediately |
+| 8 | また | また | again |
+| 9 | あとで | あとで | later |
+| 10 | もう少し | もうすこし | a little more |
+| 11 | もう〜 | もう〜 | more |
+
+---
+
+## 📖 Lesson 22 — States & Facts
+
+### Verbs
+
+| # | Japanese | Reading | Group | Meaning |
+|---|----------|---------|-------|---------|
+| 1 | 置きます | おきます | I | to put |
+| 2 | 作ります | つくります | I | to make |
+| 3 | 売ります | うります | I | to sell |
+| 4 | 知ります | しります | I | to know |
+| 5 | 住みます | すみます | I | to live |
+| 6 | 研究します | けんきゅうします | III | to research |
+
+### Nouns
+
+| # | Japanese | Reading | Meaning |
+|---|----------|---------|---------|
+| 1 | 資料 | しりょう | materials |
+| 2 | カタログ | かたろぐ | catalog |
+| 3 | 時刻表 | じこくひょう | timetable |
+| 4 | 服 | ふく | clothes |
+| 5 | 製品 | せいひん | product |
+| 6 | ソフト | そふと | software |
+| 7 | 電子辞書 | でんしじしょ | electronic dictionary |
+| 8 | 経済 | けいざい | economy |
+| 9 | 市役所 | しやくしょ | city hall |
+| 10 | 高校 | こうこう | high school |
+| 11 | 歯医者 | はいしゃ | dentist |
+| 12 | 独身 | どくしん | single |
+
+---
+
+## 📖 Lesson 23 — Honorifics
+
+| # | Japanese | Reading | Meaning |
+|---|----------|---------|---------|
+| 1 | 皆さん | みなさん | everyone |
+
+---
+
+## 📖 Lesson 24 — Giving & Receiving Actions
+
+### Verbs
+
+| # | Japanese | Reading | Group | Meaning |
+|---|----------|---------|-------|---------|
+| 1 | 覚えます | おぼえます | II | to remember |
+| 2 | 忘れます | わすれます | II | to forget |
+| 3 | なくします | なくします | I | to lose |
+| 4 | 払います | はらいます | I | to pay |
+| 5 | 返します | かえします | I | to return |
+| 6 | 出かけます | でかけます | II | to go out |
+| 7 | 脱ぎます | ぬぎます | I | to take off |
+| 8 | 持って行きます | もっていきます | I | to take (something) |
+| 9 | 持って来ます | もってきます | III | to bring (something) |
+| 10 | 心配します | しんぱいします | III | to worry |
+| 11 | 残業します | ざんぎょうします | III | to work overtime |
+| 12 | 出張します | しゅっちょうします | III | to go on a business trip |
+| 13 | 飲みます | のみます | I | to drink (medicine) |
+| 14 | 入ります | はいります | I | to enter (bath) |
+
+### Adjectives & Nouns
+
+| # | Japanese | Reading | Meaning |
+|---|----------|---------|---------|
+| 1 | 大切[な] | たいせつ | important |
+| 2 | 大丈夫[な] | だいじょうぶ | all right |
+| 3 | 危ない | あぶない | dangerous |
+| 4 | 禁煙 | きんえん | no smoking |
+| 5 | 健康保険証 | けんこうほけんしょう | health insurance card |
+| 6 | 熱 | ねつ | fever |
+| 7 | 病気 | びょうき | illness |
+| 8 | 薬 | くすり | medicine |
+| 9 | 風呂 | ふろ | bath |
+
+---
+
+## 📖 Lesson 25 — Health & Symptoms
+
+| # | Japanese | Reading | Meaning |
+|---|----------|---------|---------|
+| 1 | 上着 | うわぎ | outerwear |
+| 2 | 下着 | したぎ | underwear |
+| 3 | 2、3日 | 2、3にち | two or three days |
+| 4 | 2、3〜 | 2、3〜 | two or three |
+| 5 | 〜までに | 〜までに | by |
+| 6 | ですから | ですから | therefore |
+| 7 | どうしましたか。 | どうしましたか。 | What's wrong? |
+| 8 | のど | のど | throat |
+| 9 | 痛いです。 | いたいです。 | It hurts. |
+| 10 | 風邪 | かぜ | cold |
+| 11 | それから | それから | and then |
+| 12 | お大事に。 | おだいじに。 | Take care. |
+
+---
+
+## 💬 Common Expressions & Phrases
+
+| # | Japanese | Reading | Meaning |
+|---|----------|---------|---------|
+| 1 | 初めまして。 | はじめまして。 | Nice to meet you. |
+| 2 | 〜から来ました。 | 〜からきました。 | I came from ~ |
+| 3 | どうぞよろしくお願いします。 | どうぞよろしくおねがいします。 | Please treat me kindly. |
+| 4 | 失礼ですが | しつれいですが | Excuse me, but |
+| 5 | お名前は？ | おなまえは？ | What is your name? |
+| 6 | こちらは〜さんです。 | こちらは〜さんです。 | This is Mr./Ms. ~ |
+| 7 | すみません。 | すみません。 | Excuse me. / I'm sorry. |
+| 8 | いらっしゃいませ。 | いらっしゃいませ。 | Welcome. |
+| 9 | 〜を見せてください。 | 〜をみせてください。 | Please show me ~ |
+| 10 | 〜をください。 | 〜をください。 | Please give me ~ |
+| 11 | 大変ですね。 | たいへんですね。 | That's tough, isn't it? |
+| 12 | ありがとうございました。 | ありがとうございました。 | Thank you very much. |
+| 13 | どういたしまして。 | どういたしまして。 | You're welcome. |
+| 14 | ただいま。 | ただいま。 | I'm home. |
+| 15 | お帰りなさい。 | おかえりなさい。 | Welcome home. |
+| 16 | 疲れました。 | つかれました。 | I'm tired. |
+| 17 | ご注文は？ | ごちゅうもんは？ | May I take your order? |
+| 18 | お待ちください。 | おまちください。 | Please wait a moment. |
+| 19 | 別々に | べつべつに | separately |
+| 20 | そうしましょう。 | そうしましょう。 | Let's do that. |
+| 21 | いいですよ。 | いいですよ。 | It's okay. |
+| 22 | 残念です[が] | ざんねんです[が] | That's too bad, but |
+| 23 | いかがですか。 | いかがですか。 | How about ~? |
+| 24 | だめですか。 | だめですか。 | Is it no good? |
+| 25 | また今度お願いします。 | またこんどおねがいします。 | Please ask me again next time. |
+| 26 | お元気ですか。 | おげんきですか。 | How are you? |
+| 27 | すごいですね。 | すごいですね。 | That's amazing. |
+| 28 | まだまだです。 | まだまだです。 | Not at all. (humble) |
+| 29 | わかりました。 | わかりました。 | I understand. |
+| 30 | じゃ、また。 | じゃ、また。 | Well then, see you. |
+
+---
+
+> **Total: ~400+ vocabulary items across 25 lessons**
+> *Source: Minna no Nihongo Shokyu I*

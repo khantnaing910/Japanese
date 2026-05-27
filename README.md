@@ -1,78 +1,182 @@
-# JLPT N5 & N4 Vocabulary and Kanji Lists
+# 🇯🇵 JLPT N5 & N4 Study Materials
 
-This repository provides comprehensive **JLPT N5 and N4** vocabulary and kanji lists, extracted from the popular *Minna no Nihongo* textbook series and *N5/N4 Kanji Challenge* materials. All content is formatted in clean Markdown tables, making it easy to browse, search, and integrate into your own Japanese language study tools.
+### A comprehensive Japanese language study resource for JLPT N5 and N4 levels
 
-## 📁 Files Included
-
-| File | Content | Lessons Covered |
-|------|---------|----------------|
-| [`n5goi.md`](n5goi.md) | JLPT N5 Vocabulary | Lessons 1–25 (based on *Minna no Nihongo* N5) |
-| [`n4goi.md`](n4goi.md) | JLPT N4 Vocabulary | Lessons 26–50 (based on *Minna no Nihongo* N4) |
-| [`n5kanji.md`](n5kanji.md) | JLPT N5 Kanji (101 characters) | Grouped by topic (Nature, Numbers, Body, etc.) |
-| [`n4kanji.md`](n4kanji.md) | JLPT N4 Kanji (200 characters) | Continued topics (Adjectives, Verbs, Transportation, etc.) |
-
-## 📊 What's Inside Each File
-
-### Vocabulary Files (`n5goi.md`, `n4goi.md`)
-- **Japanese word** (kanji/kana)
-- **Reading** (hiragana)
-- **Meaning** (English)
-- **Verb Group** (I, II, III) for applicable verbs
-- Organized by lesson number (1–50)
-
-### Kanji Files (`n5kanji.md`, `n4kanji.md`)
-- **Kanji** with its **on'yomi/kun'yomi** readings
-- **Vocabulary example words** using the kanji, including readings and meanings
-- **Verb Group** for example verbs
-- Themed lessons (e.g., *Address & Government*, *Mind & Communication*)
-
-## 📖 How to Use This Repository
-
-1. **Download or clone** the repository to your local machine.
-2. **Self‑study**: Browse the Markdown files directly on GitHub.
-3. **Flashcards / Apps**: The clean table structure can easily be parsed for import into Anki, Quizlet, or other SRS tools.
-4. **Quick Reference**: Use the file‑in‑repository search to find words or kanji instantly.
-5. **Integration**: The verb groups (I, II, III) help you learn correct conjugation from the start.
-
-## 🧠 Why This Repository?
-
-- **Accurate & Complete**: Based on the widely used *Minna no Nihongo* (2nd edition) series and official *N5/N4 Kanji Challenge* books.
-- **Clean Format**: No noise, just well‑structured tables for each lesson.
-- **Learner‑Friendly**: Verb groups are noted, readings are provided, and all meanings are in English.
-- **Free & Open**: Anyone can use, modify, and share this data under the MIT License.
-
-## 📝 Example Preview
-
-**From `n5goi.md` (Lesson 7)**
-
-| Japanese | Reading | Meaning |
-|----------|---------|---------|
-| 食べます | たべます | to eat |
-| 飲みます | のみます | to drink |
-| 見ます   | みます   | to see, to watch |
-| 聞きます | ききます | to hear, to listen |
-
-**From `n4kanji.md` (Lesson 14)**
-
-| Kanji | Reading | Meaning | Example Words |
-|-------|---------|---------|----------------|
-| 米 | こめ / ベイ | rice | 米国, 白米 |
-| 料 | リョウ | fee, ingredients | 料理, 食料品, 材料 |
-
-## 🤝 Contributing
-
-Found a typo or want to add more vocabulary/kanji? Contributions are welcome!  
-Please open an issue or submit a pull request. Make sure your changes keep the same Markdown table structure for consistency.
-
-## 👤 Maintainer
-
-Compiled and maintained by **Khant Naing**.
-
-## 📄 License
-
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.  
-*The original vocabulary and kanji data are derived from Minna no Nihongo textbooks and Kanji Challenge books; this repository contains only the learner‑compiled lists in a transformative format.*
+[![JLPT](https://img.shields.io/badge/JLPT-N5%20%26%20N4-red?style=for-the-badge)](https://www.jlpt.jp/e/)
+[![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](#license)
+[![Contributions](https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=for-the-badge)](#contributing)
 
 ---
 
-**Happy studying!** 🔰📚
+## 📖 About
+
+This repository contains well-organized vocabulary and kanji lists for the **Japanese Language Proficiency Test (JLPT)** at **N5** (beginner) and **N4** (pre-intermediate) levels. All materials are based on the **Minna no Nihongo** textbook series and formatted in clean, easy-to-read Markdown tables — perfect for self-study, quick reference, or building your own flashcard decks.
+
+---
+
+## 📁 Repository Structure
+
+```
+📦 JLPT-N5-N4-Study-Materials
+├── 📄 README.md            ← You are here
+├── 📘 n5goi.md             ← N5 Vocabulary List
+├── 🈁 n5kanji.md           ← N5 Kanji List
+├── 📗 n4goi.md             ← N4 Vocabulary List
+└── 🈂 n4kanji.md           ← N4 Kanji List
+```
+
+---
+
+## 📊 Content Overview
+
+### 📘 N5 Vocabulary (`n5goi.md`)
+
+| Detail | Info |
+|--------|------|
+| **Level** | JLPT N5 — Beginner |
+| **Source** | Minna no Nihongo Shokyu I |
+| **Lessons** | 1 – 25 |
+| **Entries** | ~400+ words |
+| **Includes** | Nouns, Verbs (with groups I/II/III), い-Adjectives, な-Adjectives, Expressions, Common Phrases |
+
+> Covers: Self-introduction, daily routine, food & drink, shopping, directions, family, adjectives, counters, seasons, requests, health, and more.
+
+---
+
+### 🈁 N5 Kanji (`n5kanji.md`)
+
+| Detail | Info |
+|--------|------|
+| **Level** | JLPT N5 — Beginner |
+| **Source** | N5 Kanji Challenge |
+| **Kanji Count** | 101 kanji |
+| **Vocabulary** | 300+ compound words |
+| **Includes** | Kun'yomi, On'yomi, Meanings, Example vocabulary with verb groups |
+
+> Covers: Nature (山川田), days of the week (日月火水木金土), numbers (一〜万), body parts (目口耳手足), directions (東西南北), core verbs (行来食見聞読書話買飲), and more.
+
+---
+
+### 📗 N4 Vocabulary (`n4goi.md`)
+
+| Detail | Info |
+|--------|------|
+| **Level** | JLPT N4 — Pre-Intermediate |
+| **Source** | Minna no Nihongo Shokyu II |
+| **Lessons** | 26 – 50 + Supplements |
+| **Entries** | ~600+ words |
+| **Includes** | Transitive/Intransitive verb pairs, Emotions, Weather, Society, Signs, Honorifics, Counters |
+
+> Covers: Potential form, intransitive/transitive pairs, rules & signs, passive/causative, emotions, disasters, culture, measurements, and more.
+
+---
+
+### 🈂 N4 Kanji (`n4kanji.md`)
+
+| Detail | Info |
+|--------|------|
+| **Level** | JLPT N4 — Pre-Intermediate |
+| **Source** | N4 Kanji Challenge |
+| **Kanji Count** | ~190 kanji (#111 – #300) |
+| **Vocabulary** | 600+ compound words |
+| **Includes** | Kun'yomi, On'yomi, Meanings, Example vocabulary with verb groups |
+
+> Covers: Address & government (住所都府県), adjectives (遠近広細太短), colors (赤青黒白), actions (歩走止動働), seasons (春夏秋冬), family (親父母兄弟姉妹), health (体病医薬痛), education (勉強教習), and more.
+
+---
+
+## 📋 Sample Entry
+
+### Vocabulary Format
+
+| # | Japanese | Reading | Group | Meaning |
+|---|----------|---------|-------|---------|
+| 1 | 食べます | たべます | II | to eat |
+| 2 | 飲みます | のみます | I | to drink |
+| 3 | 勉強します | べんきょうします | III | to study |
+
+### Kanji Format
+
+| # | Kanji | Kun'yomi | On'yomi | Meaning | Key Vocabulary |
+|---|-------|----------|---------|---------|----------------|
+| 1 | 食 | た(べる) | ショク | Eat | 食べる [たべる] (II) to eat · 食堂 [しょくどう] dining hall |
+
+---
+
+## 🚀 How to Use
+
+1. **Browse online** — Click any `.md` file above to view it directly on GitHub.
+2. **Clone locally** — Download the repo for offline study.
+   ```bash
+   git clone https://github.com/YOUR_USERNAME/JLPT-N5-N4-Study-Materials.git
+   ```
+3. **Create flashcards** — Import the tables into [Anki](https://apps.ankiweb.net/), Quizlet, or any flashcard app.
+4. **Print** — Render the Markdown files to PDF for printable study sheets.
+
+---
+
+## 📈 Study Roadmap
+
+```
+┌─────────────────────────────────────────────────────┐
+│                  JLPT Study Path                    │
+├─────────────────────────────────────────────────────┤
+│                                                     │
+│   N5 (Beginner)          N4 (Pre-Intermediate)      │
+│   ┌──────────────┐       ┌──────────────┐           │
+│   │ n5goi.md     │──────▶│ n4goi.md     │           │
+│   │ ~400 words   │       │ ~600 words   │           │
+│   └──────────────┘       └──────────────┘           │
+│   ┌──────────────┐       ┌──────────────┐           │
+│   │ n5kanji.md   │──────▶│ n4kanji.md   │           │
+│   │ 101 kanji    │       │ ~190 kanji   │           │
+│   └──────────────┘       └──────────────┘           │
+│                                                     │
+│   Lessons 1-25           Lessons 26-50              │
+│   ★☆☆☆☆                 ★★☆☆☆                     │
+│                                                     │
+└─────────────────────────────────────────────────────┘
+```
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! If you'd like to:
+
+- ✅ Fix typos or incorrect readings
+- ➕ Add missing vocabulary
+- 📝 Add N3/N2/N1 materials
+- 🔧 Improve formatting
+
+Please feel free to open a **Pull Request** or create an **Issue**.
+
+---
+
+## 📜 License
+
+This project is licensed under the **MIT License** — feel free to use, modify, and share.
+
+---
+
+## 🙏 Acknowledgments
+
+- **Minna no Nihongo** (みんなの日本語) textbook series by 3A Corporation
+- **JLPT** (日本語能力試験) — [Official Website](https://www.jlpt.jp/e/)
+- **N5/N4 Kanji Challenge** study materials
+
+---
+
+## 👤 Author
+
+**KHANT NAING**
+
+---
+
+<div align="center">
+
+**頑張ってください！** 🎌
+
+*Good luck with your Japanese studies!*
+
+</div>
