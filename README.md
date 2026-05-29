@@ -32,7 +32,8 @@ This repository contains well-organized vocabulary, kanji, and grammar guides fo
 │   └── n4grammar.md          ← N4 Grammar Guide (with tips!)
 │
 └── 📕 N3 — Intermediate
-    └── n3goi.md              ← N3 Vocabulary List
+    ├── n3goi.md              ← N3 Vocabulary List
+    └── n3grammar.md          ← N3 Grammar Guide (with tips!)
 ```
 
 ---
@@ -130,6 +131,19 @@ This repository contains well-organized vocabulary, kanji, and grammar guides fo
 
 > Covers: Housework (cooking, cleaning, laundry), transportation (trains, driving, traffic), travel planning, school & work, computer & email, relationships, greetings, personality traits, health symptoms, adverbs (degree/frequency), onomatopoeia (どきどき, いらいら, ぴかぴか...), compound verbs.
 
+#### Grammar (`n3grammar.md`) ⭐
+
+| Detail | Info |
+|--------|------|
+| **Source** | Shinkanzen Master N3 Grammar |
+| **Sections** | 11 thematic sections |
+| **Grammar Points** | 55+ core patterns (~150 total N3 patterns) |
+| **Includes** | Formations, nuance comparisons, exam tips, common traps, reference table |
+
+> Covers: Cause (おかげで/せいで/ために), contrast (のに/くせに/にもかかわらず), appearance (ようだ/みたいだ/らしい/そうだ), time (間に/うちに/たびに/最中に), state (まま/っぱなし/だらけ/がち/っぽい), progression (ていく/てくる/始める/続ける), purpose (ために/ように/ずに), relations (について/に対して/にとって/として), degree (ほど/ば〜ほど/ばかり), obligation (べきだ/ことだ/わけだ), and more.
+>
+> ✨ **Includes:** The complete "It Seems" family comparison table, cause (positive/negative/neutral) distinction, and grammar-pair study approach.
+
 ---
 
 ## 📋 Sample Entries
@@ -179,10 +193,10 @@ This repository contains well-organized vocabulary, kanji, and grammar guides fo
 │  │ n5goi.md     │─────▶│ n4goi.md     │───────▶│ n3goi.md     │ │
 │  │ ~400 words   │      │ ~600 words   │        │ ~500 words   │ │
 │  └──────────────┘      └──────────────┘        └──────────────┘ │
-│  ┌──────────────┐      ┌──────────────┐                         │
-│  │ n5grammar.md │─────▶│ n4grammar.md │                         │
-│  │ 50+ points   │      │ 40+ points   │                         │
-│  └──────────────┘      └──────────────┘                         │
+│  ┌──────────────┐      ┌──────────────┐        ┌──────────────┐ │
+│  │ n5grammar.md │─────▶│ n4grammar.md │───────▶│ n3grammar.md │ │
+│  │ 50+ points   │      │ 45+ points   │        │ 55+ points   │ │
+│  └──────────────┘      └──────────────┘        └──────────────┘ │
 │  ┌──────────────┐      ┌──────────────┐                         │
 │  │ n5kanji.md   │─────▶│ n4kanji.md   │                         │
 │  │ 101 kanji    │      │ ~190 kanji   │                         │
